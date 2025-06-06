@@ -1,7 +1,6 @@
 ﻿# Deep-Neural-Language-Models
 
-###Research paper link: 
-#####https://ieeexplore.ieee.org/abstract/document/10774930
+###Research paper link: https://ieeexplore.ieee.org/abstract/document/10774930
 
  1.	Purpose: The study aims to compare the effectiveness of these models in generating text, considering factors like model design, training methods, and performance in various text creation scenarios.
  2.	Focus Areas: The paper discusses issues like the vanishing gradient problem, model complexity versus performance, and how well each model adapts to different domains like chatbots, content creation, and summarization.
